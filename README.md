@@ -25,7 +25,7 @@ Projeto de um **jogo web interativo** desenvolvido com **JavaScript puro (Vanill
 
 ## 🔗 Acesse o Jogo
 
-👉 [**Jogar agora**](https://seu-link-aqui.com)
+👉 [**Jogar agora**](https://carlosmonnerat.github.io/Pong_Game_Canvas/)
 
 
 ---
